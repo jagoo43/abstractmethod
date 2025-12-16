@@ -12,4 +12,4 @@ class child(base):
       print("child class")
 c=child()
 c.display(123)
-c.show()
+c.show()      
